@@ -1,6 +1,6 @@
-# test-project
+# plyr-demo
 
-> A Vue.js project
+> A demo project to know how plyr-vue works
 
 ## Build Setup
 
